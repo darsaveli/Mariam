@@ -4,7 +4,6 @@
 
 <p><b>I'm an IT Sourcer at</b> &nbsp; &nbsp; <a href="https://talentsolutions.manpowergroup.com/"><img alt="manpowergroup" width="280px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" target=”_blank”></a></p>
 
-<br> 
 <br>
 <ul>
 <li>🌱 I’m learning Front-end development
