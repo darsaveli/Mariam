@@ -2,7 +2,7 @@
 
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="right">
 
-I'm an IT Sourcer at &nbsp; [<img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/)
+<b>I'm an IT Sourcer at &nbsp; </b> [<img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/)
 
 
 <br>
