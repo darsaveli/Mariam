@@ -20,6 +20,6 @@ to help others learn polish with songs</li>
   <p><img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="41px" align="left"></p>
   <p><img src="https://github.com/darsaveli/Mariam/blob/main/html.png" width="41px" align="left"></p>
   <p><img src="https://github.com/darsaveli/Mariam/blob/main/css.png" width="41px" align="left"></p>
-  <p><img src="https://github.com/darsaveli/Mariam/blob/main/jquery.png" width="41px" align="left"></p>
+  <p><img src="https://github.com/darsaveli/Mariam/blob/main/jquery2.jpeg" width="41px" align="left"></p>
   
 </div>
