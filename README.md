@@ -3,9 +3,7 @@
 
 <p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="460px" align="right" style="max-width:100%;"</p>
 
-<p>I'm an IT Sourcer at <a href="https://talentsolutions.manpowergroup.com/" {:target="_blank" rel="noopener"}><img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png"></a></p>
-<p>[I'm an IT Sourcer at] (https://talentsolutions.manpowergroup.com/) {:target="_blank" rel="noopener"}><img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png"></a></p>
-
+<p>I'm an IT Sourcer at <a href="https://talentsolutions.manpowergroup.com/"><img src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" alt="manpowergroup" width="200px" {:target="_blank" rel="noopener"} ></a></p>
 
 <br>
 <ul>
