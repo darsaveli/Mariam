@@ -6,9 +6,9 @@
 
 <br>
 <ul>
-<li>🌱 I’m learning Front-end development
-<li>🔎 Improving: sourcing skills & languages</li>
-<li>🎶 Fun fact: I love polish songs and often translate my favouritess<br>
+<li>🌱 &nbsp;I’m learning Front-end development
+<li>🔎 &nbsp;Improving: sourcing skills & languages</li>
+<li>🎶 &nbsp;Fun fact: I love polish songs and often translate my favouritess<br>
 to help others learn polish with songs</li>
 </ul>
 
