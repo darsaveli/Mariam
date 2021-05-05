@@ -1,4 +1,5 @@
 # Hi, I'm Mariam 👋<br> 
+<div id="body">
 <p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="400px" align="right" style="max-width:100%;"</p>
 
 I'm an IT Sourcer at ManpowerGroup Talent Solutions in Poland<br>
@@ -9,4 +10,8 @@ I'm an IT Sourcer at ManpowerGroup Talent Solutions in Poland<br>
 to help others learn polish with songs</li>
 </ul>
 
+</div>
+<div id="bottom">
 <h2>💻 Languages and Tools:</h2>
+  
+</div>
