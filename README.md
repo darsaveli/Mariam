@@ -1,4 +1,4 @@
-# Hi, I'm Mariam 👋<br> 
+# Hi, I'm Mariam (Mari) 👋<br> 
 <div id="body">
 
 <p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="460px" align="right" style="max-width:100%;"</p>
