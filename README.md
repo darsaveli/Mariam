@@ -10,7 +10,7 @@
 <ul>
 <li>🌱 &nbsp;&nbsp;I’m learning Front-end development
 <li>🔎 &nbsp;&nbsp;Improving: sourcing & language skills</li>
-<li>🎶 &nbsp;&nbsp;Fun fact: I love polish songs and often translate my favourites to help others learn polish with songs🇵🇱</li>
+<li>🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others learn 🇵🇱Polish with songs🎶</li>
 </ul>
 
 </div>
