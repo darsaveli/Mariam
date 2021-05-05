@@ -18,6 +18,6 @@
 
 <br>
 
-###  :mailbox: How to reach me:
+<p align="right">###  :mailbox: How to reach me:</p>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/darsaveli)
+<p align="right">[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/darsaveli)</p>
