@@ -1,5 +1,5 @@
 # Hi, I'm Mariam 👋<br> 
-![wow](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif
+<p align="right">![wow](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif</p>
 )
 I'm an IT Sourcer at <br> 
 ManpowerGroup Talent Solutions in Poland.<br>
