@@ -15,5 +15,7 @@ to help others learn polish with songs</li>
 </div>
 <div id="bottom">
 <h2>💻 Languages and Tools:</h2>
+  <p><img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="41px" align="left"></p>
+  
   
 </div>
