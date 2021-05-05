@@ -1,6 +1,6 @@
 # Hi, I'm Mariam 👋<br> 
 <div id="body">
-<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right" style="max-width:100%;"</p>
+<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="right" style="max-width:100%;"</p>
 
 I'm an IT Sourcer at ManpowerGroup Talent Solutions in Poland
 <br> 
