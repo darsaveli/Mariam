@@ -1,6 +1,5 @@
 # Hi, I'm Mariam 👋<br> 
 <div id="body">
-markdown: kramdown
 
 <p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="460px" align="right" style="max-width:100%;"</p>
 
