@@ -3,7 +3,7 @@
 
 <p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="460px" align="right" style="max-width:100%;"</p>
 
-<p>I'm an IT Sourcer at <a href="https://talentsolutions.manpowergroup.com/"><img src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" alt="manpowergroup" width="200px" {:target="_blank" rel="noopener"} ></a></p>
+<p>I'm an IT Sourcer at [img src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png](https://talentsolutions.manpowergroup.com/) width="200px" {:target="_blank" rel="noopener"}</p>
 
 <br>
 <ul>
