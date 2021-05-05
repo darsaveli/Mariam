@@ -15,9 +15,3 @@
 <img src="https://github.com/darsaveli/Mariam/blob/main/html.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/Mariam/blob/main/css.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/Mariam/blob/main/jquery%20(1).png" width="41px" align="left">
-
-<br>
-
-<p align="right">  ###  :mailbox: How to reach me:</p>
-
-<p align="right">  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/darsaveli) </p>
