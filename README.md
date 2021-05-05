@@ -2,7 +2,8 @@
 <div id="body">
 <p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="right" style="max-width:100%;"</p>
 
-<img src="https://github.com/darsaveli/Mariam/blob/main/logo1.jpg" width="25px" align="left">I'm an IT Sourcer at ManpowerGroup Talent Solutions in Poland
+<p>I'm an IT Sourcer at <a href="https://talentsolutions.manpowergroup.com/"><img align="left" alt="manpowergroup" width="20px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" style="max-width:100%;"></a></p>
+
 <br> 
 <br>
 <ul>
