@@ -2,7 +2,7 @@
 <p align="right">![](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif)</p>
 
 I'm an IT Sourcer at <br> 
-ManpowerGroup Talent Solutions in Poland.<br>
+ManpowerGroup Talent Solutions in Poland<br>
 
 🌱 I’m learning HTML, CSS, JavaScript, jQuery <br>
 🔎 Improving: sourcing skills & languages <br>
