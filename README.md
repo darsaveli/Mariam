@@ -12,7 +12,6 @@ I'm an IT Sourcer at ManpowerGroup Talent Solutions in Poland
 to help others learn polish with songs</li>
 </ul>
 <br> 
-<br> 
 </div>
 <div id="bottom">
 <h2>💻 Languages and Tools:</h2>
