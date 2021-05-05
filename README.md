@@ -1,7 +1,7 @@
-# Hi, I'm Mariam 👋<br> ![1479814528_webarebears](https://user-images.githubusercontent.com/81953271/117153210-0a67da80-adbb-11eb-998a-553a9b928174.gif)
+# Hi, I'm Mariam 👋<br> 
 
 
-I'm an IT Sourcer at <br>
+I'm an IT Sourcer at <br> ![1479814528_webarebears](https://user-images.githubusercontent.com/81953271/117153210-0a67da80-adbb-11eb-998a-553a9b928174.gif)
 ManpowerGroup Talent Solutions in Poland.<br>
 
 🌱 I’m learning HTML, CSS, JavaScript, jQuery <br>
