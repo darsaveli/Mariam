@@ -1,9 +1,9 @@
 # Hi, I'm Mariam (Mari) 👋<br> 
 <div id="body">
 
-<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="460px" align="right" style="max-width:100%;"</p>
+<p><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="440px" align="right" style="max-width:100%;"</p>
 
-<p>I'm an IT Sourcer at &nbsp; <a href="https://talentsolutions.manpowergroup.com/" target="_blank"><img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png"></a></p>
+<p><b>I'm an IT Sourcer at</b> &nbsp; <a href="https://talentsolutions.manpowergroup.com/" target="_blank"><img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png"></a></p>
 
 
 <br>
