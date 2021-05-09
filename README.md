@@ -12,7 +12,7 @@
 - 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others learn 🇵🇱&nbsp;&nbsp;Polish with songs 🎶
 
 ## 💻 Languages and Tools:  
-<img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="37px" align="left">
+<img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="40px" align="left">
 <img src="https://github.com/darsaveli/Mariam/blob/main/html.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/Mariam/blob/main/css.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/Mariam/blob/main/jquery%20(1).png" width="41px" align="left">
