@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 &nbsp;&nbsp;I’m learning Front-end development
+- 🌱 &nbsp;&nbsp;I’m learning front-end development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
 - 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others learn 🇵🇱&nbsp;&nbsp;Polish with songs 🎶
 
