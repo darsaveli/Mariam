@@ -18,4 +18,4 @@
 <img src="https://github.com/darsaveli/Mariam/blob/main/jquery%20(1).png" width="41px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/ajax2.png" width="25px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/bootstrap4.png" width="41px" align="left">
-
+<img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
