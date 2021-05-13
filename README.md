@@ -21,4 +21,4 @@
 <img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=darsaveli.darsaveli)
+<p> ![](https://visitor-badge.glitch.me/badge?page_id=darsaveli.darsaveli) align="right" </p>
