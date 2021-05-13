@@ -21,8 +21,8 @@
 <img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
 
 <br />
-<hr>
 <br />
+<hr>
 
 <div align="center">
   
