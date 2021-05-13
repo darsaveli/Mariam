@@ -23,6 +23,8 @@
 <br />
 <hr>
 
+<!-- Footer -->
+
 <div align="center">
   
 ![](https://visitor-badge.glitch.me/badge?page_id=darsaveli.darsaveli)
