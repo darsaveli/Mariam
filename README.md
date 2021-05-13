@@ -22,8 +22,7 @@
 
 <br />
 <hr>
-
-<!-- Footer -->
+<br />
 
 <div align="center">
   
