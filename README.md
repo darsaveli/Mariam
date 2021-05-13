@@ -19,3 +19,7 @@
 <img src="https://github.com/darsaveli/Mariam/blob/main/jquery%20(1).png" width="46px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/bootstrap4.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
+
+
+![Visitor Count](https://profile-counter.glitch.me/darsaveli/count.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=darsaveli.darsaveli)
