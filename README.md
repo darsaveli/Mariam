@@ -20,11 +20,8 @@
 <img src="https://github.com/darsaveli/darsaveli/blob/main/bootstrap4.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
 
-
-
 <br />
-###
-<hr>
+##<hr>
 
 <!-- Footer -->
 
