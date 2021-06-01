@@ -9,7 +9,7 @@
 
 - 🌱 &nbsp;&nbsp;I’m learning front-end development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
-- 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others 🇵🇱&nbsp;&nbsp;learn Polish with songs 🎶
+- 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others learn Polish with songs 🎶 🇵
 
 ## 💻 Languages and Tools:  
 <img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="40px" align="left">
