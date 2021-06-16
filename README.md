@@ -29,4 +29,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=darsaveli.darsaveli)
 
 </div>
-<img width="495" height="195" src="https://github-profile-trophy.vercel.app/?username=darsaveli&theme=onedark" align="left" /><img width="280" height="390" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=1235968206&cover_image=true" /><img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=darsaveli&theme=onedark" align="left" />
+
