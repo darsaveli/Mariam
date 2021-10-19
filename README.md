@@ -23,7 +23,7 @@
 <br />
 <br />
 
-###### ...and year's goal is to start learning: React, PHP, MySQL, APIs, Python
+###### ...and the plan is to start learning: React, PHP, MySQL, APIs, Python
 <hr>
 
 <div align="center">
