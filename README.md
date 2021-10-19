@@ -21,8 +21,9 @@
 <img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
 
 <br />
-This year's goal is to start learning: React, PHP, MySQL, APIs, Python
 <br />
+
+###### ...and year's goal is to start learning: React, PHP, MySQL, APIs, Python
 <hr>
 
 <div align="center">
