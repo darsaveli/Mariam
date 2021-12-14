@@ -25,7 +25,7 @@
 <br />
 <br />
 
-###### ...and the plan is to start learning: React, PHP, MySQL, APIs, Python
+###### ...and the plan is to start learning: React, MySQL, APIs, Python
 <hr>
 
 <div align="center">
