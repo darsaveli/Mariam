@@ -10,7 +10,9 @@
 - 🌱 &nbsp;&nbsp;Learning: Front-End development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
 - 📚 &nbsp;&nbsp;Creating a website for a [GitHub Sourcing course](https://darsaveli.github.io/GitHub-Sourcing/) which I wrote for IT Recruiters and Sourcers
-- 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others [learn Polish with songs](https://www.instagram.com/polskiepiosenki.tg/) 🇵🇱 🎶 
+- 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs and often translate my favourites to help others [learn Polish with songs](https://www.instagram.com/polskiepiosenki.tg/) 🇵🇱 🎶 📌
+- 📌 &nbsp;&nbsp;Enrolled in the Harvar universuty's CS50x: Introduction to Computer Science course
+
 
 ## 💻 Languages and Tools:  
 <img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="40px" align="left">
