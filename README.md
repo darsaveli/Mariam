@@ -16,6 +16,8 @@
 <img src="https://github.com/darsaveli/darsaveli/blob/main/harvard.png" width="75px" align="left"> Enrolled in the Harvard universuty's CS50x: Introduction to Computer Science course
 <br />
 <br />
+<br />
+
 
 ## 💻 Languages & tools learning:  
 <img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="40px" align="left">
