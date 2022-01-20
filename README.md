@@ -2,7 +2,7 @@
 
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="440px" align="right">
 
-<h3>I'm a Team Lead of the IT Recruitment team at &nbsp; </h3> 
+<h4>I'm a Team Lead of the IT Recruitment team at &nbsp; </h4> 
 
 [<img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/) 
 
