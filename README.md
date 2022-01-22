@@ -1,13 +1,11 @@
 # Hi, I'm Mariam (Mari) 👋
 
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="380px" align="right">
-
 <h4>Team Lead of the IT Recruitment team at &nbsp; </h4> 
 
-[<img alt="manpowergroup" width="180px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/) 
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
 
 
-<br>
+[<img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/) 
 
 - 🌱 &nbsp;&nbsp;Learning: Front-End development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
@@ -16,6 +14,7 @@
 
 <br />
 <img src="https://github.com/darsaveli/darsaveli/blob/main/harvard.png" width="75px" align="left"> Enrolled in the Harvard universuty's CS50x: Introduction to Computer Science course
+
 <br />
 <br />
 <br />
