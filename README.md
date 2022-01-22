@@ -5,7 +5,7 @@
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
 
 
-[<img alt="manpowergroup" width="200px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/) 
+[<img alt="manpowergroup" width="250px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/) 
 
 - 🌱 &nbsp;&nbsp;Learning: Front-End development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
