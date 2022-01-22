@@ -13,7 +13,7 @@
 - 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs & often translate my favourites <br> to help others [learn Polish with songs](https://www.instagram.com/polskiepiosenki.tg/) 🇵🇱 🎶
 
 <br />
-<img src="https://github.com/darsaveli/darsaveli/blob/main/harvard.png" width="75px" align="left"> Enrolled in the Harvard universuty's CS50x: Introduction to Computer Science course
+<img src="https://github.com/darsaveli/darsaveli/blob/main/harvard.png" width="75px" align="left"> Enrolled in the Harvard universuty's CS50x course: <br> Introduction to Computer Science
 
 <br />
 <br />
