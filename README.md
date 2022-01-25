@@ -29,6 +29,7 @@
 <img src="https://github.com/darsaveli/darsaveli/blob/main/bootstrap4.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/php.png" width="55px" align="left">
+<img src="https://github.com/darsaveli/darsaveli/blob/main/c-language.png" width="37px" align="left">
 
 <br />
 <br />
