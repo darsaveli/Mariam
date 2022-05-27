@@ -1,24 +1,15 @@
 # Hi, I'm Mariam (Mari) 👋
 
-<h4>Team Lead of the IT Recruitment team at &nbsp; </h4> 
-
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="right">
-
-
-[<img alt="manpowergroup" width="250px" src="https://github.com/darsaveli/Mariam/blob/main/Talentsolutions.png" />](https://talentsolutions.manpowergroup.com/) 
-
+<h3>Delivery Manager of the IT Recruitment team at&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/81953271/170658355-1157e17d-4655-4961-8a41-d8d72e07714c.png" width="90px"></h3> 
+  
 - 🌱 &nbsp;&nbsp;Learning: Front-End development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
 - 📚 &nbsp;&nbsp;Creating a website for a [GitHub Sourcing course](https://darsaveli.github.io/GitHub-Sourcing/) which I wrote for IT Recruiters and Sourcers
 - 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs & often translate my favourites to help others [learn Polish with songs](https://www.instagram.com/polskiepiosenki.tg/) 🇵🇱 🎶
 
-<br />
 <img src="https://github.com/darsaveli/darsaveli/blob/main/harvard.png" width="75px" align="left"> Enrolled in the Harvard universuty's CS50x course: <br> Introduction to Computer Science
 
 <br />
-<br />
-<br />
-
 
 ## 💻 Languages & tools learning:  
 <img src="https://github.com/darsaveli/Mariam/blob/main/visual-studio-code.png" width="40px" align="left">
