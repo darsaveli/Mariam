@@ -1,4 +1,4 @@
-# Hi, I'm Mariam (Mari) 👋
+# Hi, I'm Mariam (Mari)
 
 <h3>Delivery Manager of the IT Recruitment team at&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/81953271/170658355-1157e17d-4655-4961-8a41-d8d72e07714c.png" width="90px"></h3> 
   
