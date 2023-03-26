@@ -15,11 +15,8 @@
 <img src="https://github.com/darsaveli/Mariam/blob/main/html.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/Mariam/blob/main/css.png" width="41px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/JavaScript.png" width="33px" align="left">
-<img src="https://github.com/darsaveli/Mariam/blob/main/jquery%20(1).png" width="46px" align="left">
 <img src="https://github.com/darsaveli/darsaveli/blob/main/bootstrap4.png" width="41px" align="left">
-<img src="https://github.com/darsaveli/darsaveli/blob/main/wordpress.png" width="41px" align="left">
-<img src="https://github.com/darsaveli/darsaveli/blob/main/php.png" width="55px" align="left">
-<img src="https://github.com/darsaveli/darsaveli/blob/main/c-language.png" width="37px" align="left">
+
 
 <br />
 <br />
