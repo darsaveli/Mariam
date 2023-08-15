@@ -1,11 +1,11 @@
 # Hi, I'm Mariam (Mari)
 
-<h3>Delivery Manager of an IT Recruitment team at&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/81953271/170658355-1157e17d-4655-4961-8a41-d8d72e07714c.png" width="90px"></h3> 
+<h3>Delivery Manager of an IT Recruitment Team at&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/81953271/170658355-1157e17d-4655-4961-8a41-d8d72e07714c.png" width="90px"></h3> 
   
 - 🌱 &nbsp;&nbsp;Learning: Front-End development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
 - 📚 &nbsp;&nbsp;Creating a website for a [GitHub Sourcing course](https://darsaveli.github.io/GitHub-Sourcing/) which I wrote for IT Recruiters and Sourcers
-- 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs & translate my favourites to help others [learn Polish with songs](https://www.instagram.com/polskiepiosenki.tg/) 🇵🇱 🎶
+- 🎶 &nbsp;&nbsp;Fun fact: I love Polish songs & translate my favorites to help others [learn Polish with songs](https://www.instagram.com/polskiepiosenki.tg/) 🇵🇱 🎶
 
 
 <br />
