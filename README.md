@@ -1,6 +1,6 @@
 # Hi, I'm Mariam (Mari)
 
-<h3>IT Recruitment Director at Augmenta&nbsp;&nbsp;<img src="-" width="90px"></h3> 
+<h3>IT Recruitment Director at Augmenta&nbsp;&nbsp;<img src="https://github.com/darsaveli/darsaveli/blob/main/Augmenta-logo.svg" width="90px"></h3> 
   
 - 🌱 &nbsp;&nbsp;Learning: Front-End development
 - 🔎 &nbsp;&nbsp;Improving: sourcing & language skills
